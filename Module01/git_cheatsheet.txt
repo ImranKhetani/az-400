@@ -20,4 +20,9 @@ git status
 
 git commit -m "This is intial commit"
 
-# Create a HTML File with the name index.html
+# Create a HTML File with the name index.html and add some html text and commit that file to local git repository
+
+#To see the changes made you may use the below command
+
+git log <this command can be use to see all the previous commit and also adding <all> tag we can see all the commits>
+git checkout <commit id> <this command can be use to go back to the previous commit and also adding <all> tag we can see all the commits>
