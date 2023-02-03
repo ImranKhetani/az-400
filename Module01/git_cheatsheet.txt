@@ -1,0 +1,21 @@
+# Initialize a git repository
+
+git init
+
+# Configure git global parameters
+
+git config --global user.name "<User_Name>"
+git config --global user.email "<User_Email_Address>"
+
+# adding the files to staging area
+
+git add .
+git add .\Module01\git_cheatsheet.txt <Add only the modified file>
+
+# Check the status
+
+git status
+
+# Commit the files to local git repository
+
+git commit -m "This is intial commit"
