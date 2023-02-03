@@ -32,3 +32,8 @@ git checkout <commit id> <this command can be use to go back to the previous com
 # Use the checkout command to create a branch
 
 git checkout -b feature
+
+#Merge the branches
+
+git checkout master
+git merge feature
