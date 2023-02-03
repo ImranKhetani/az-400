@@ -26,3 +26,9 @@ git commit -m "This is intial commit"
 
 git log <this command can be use to see all the previous commit and also adding <all> tag we can see all the commits>
 git checkout <commit id> <this command can be use to go back to the previous commit and also adding <all> tag we can see all the commits>
+
+#Requirement is to add a new page to a website courses.html, create a file with the name course.html and add few lines of code to the file, but that should be done using branch feature in git.
+
+# Use the checkout command to create a branch
+
+git checkout -b feature
