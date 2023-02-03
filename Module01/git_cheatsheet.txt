@@ -19,3 +19,5 @@ git status
 # Commit the files to local git repository
 
 git commit -m "This is intial commit"
+
+# Create a HTML File with the name index.html
